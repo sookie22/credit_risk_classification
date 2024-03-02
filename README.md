@@ -8,11 +8,11 @@ The dataset includes various financial attributes of loan applicants, such as lo
 
 ## Results
 Logistic Regression Model:
-Balanced Accuracy Score: 94.43%
-Precision for class 0 (approved loans): 100%
-Recall for class 0 (approved loans): 100%
-Precision for class 1 (denied loans): 87%
-Recall for class 1 (denied loans): 89%
+- Balanced Accuracy Score: 94.43%
+- Precision for class 0 (approved loans): 100%
+- Recall for class 0 (approved loans): 100%
+- Precision for class 1 (denied loans): 87%
+- Recall for class 1 (denied loans): 89%
 
 ## Summary
 The logistic regression model demonstrates strong predictive performance in assessing loan risk. With a balanced accuracy score of 94.43%, it showcases reliability even in the presence of imbalanced classes within the dataset. Notably, the model achieves perfect precision and recall for class 0 (approved loans), underscoring its exceptional ability to accurately identify this category. Furthermore, it exhibits satisfactory precision and recall for class 1 (denied loans), indicating its proficiency in discerning both approved and denied loans.
